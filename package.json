@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "cypress": "^15.6.0",
-    "next": "^16.0.0",
+    "next": "^16.0.7",
     "react": "^19.0.0",
     "react-dom": "^19.1.0"
   },
