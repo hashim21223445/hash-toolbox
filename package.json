@@ -21,7 +21,7 @@
     "cypress": "^15.8.1",
     "next": "^16.0.10",
     "react": "^19.0.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.2.1"
   },
   "devDependencies": {
     "netlify-plugin-cypress": "2.2.1"
